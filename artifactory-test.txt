@@ -1,0 +1,2 @@
+artifactrepo-*.jnj.com
+ artifactrepo-*.jnj.com 
